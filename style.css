@@ -21,3 +21,17 @@ body {
     margin: auto;
     max-width: 300px;
 }
+.img1 {
+    width: 90px;
+    height: auto;
+    position: absolute;
+}.img2 {
+    width: 110px;
+    height: auto;
+    position: absolute;
+}
+.img3 {
+    width: 130px;
+    height: auto;
+    position: absolute;
+}
