@@ -1,0 +1,23 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    background-image: url('images/bg.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position-y: 0px;
+    background-color: #b7d94e;
+}
+.center {
+    margin: auto;
+}
+.form-group {
+    color: white;
+    text-align: center;
+    font-size: 32px;
+}
+.btn-block {
+    margin: auto;
+    max-width: 300px;
+}
